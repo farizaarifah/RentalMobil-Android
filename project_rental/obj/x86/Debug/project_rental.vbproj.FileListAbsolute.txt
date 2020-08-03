@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\bin\Debug\project_rental.exe
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\bin\Debug\project_rental.pdb
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\bin\Debug\project_rental.xml
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.exe
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.xml
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.pdb
+c:\users\asus\documents\visual studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.Form2_daftar.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\project_rental\project_rental\obj\x86\Debug\project_rental.Form3.resources
